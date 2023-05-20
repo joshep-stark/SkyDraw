@@ -1,0 +1,19 @@
+{
+  "name": "skydraw",
+  "version": "1.0.0",
+  "description": "lets draw the space",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "josephstarkrgb@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "git": "^0.1.5",
+    "socket.io": "^4.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
